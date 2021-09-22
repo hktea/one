@@ -5,5 +5,5 @@ Git has a mutable index called  stage.
 第二次修改
 第三次修改
 主电脑修改第一次
-我自己修改1次
 主电脑修改第二次
+我自己修改1次
